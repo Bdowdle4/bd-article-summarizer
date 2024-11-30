@@ -3,6 +3,20 @@
 Complete the tasks in the Python Notebook in this repository.
 Make sure to add and push the pkl or text file of your scraped html (this is specified in the notebook)
 
+### Virtual Environment Set Up
+
+```python -m venv .venv```
+
+```.venv\Scripts\activate```
+
+"Select Kernel" in notebook to use virtual environment.
+
+### Packages Required *(Cannot import to notebook without installing first)*
+
+```pip install -r requirements.txt```
+
+[Code to install spaCy here](https://spacy.io/usage)
+
 ## Rubric
 
 * (Question 1) Article html stored in separate file that is committed and pushed: 1 pt

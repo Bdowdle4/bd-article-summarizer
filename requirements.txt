@@ -1,0 +1,9 @@
+bs4
+html5lib
+ipykernel
+jupyterlab
+matplotlib
+requests
+numpy
+wordcloud
+spacytextblob
