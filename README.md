@@ -3,6 +3,12 @@
 Complete the tasks in the Python Notebook in this repository.
 Make sure to add and push the pkl or text file of your scraped html (this is specified in the notebook)
 
+# Objectives
+
+This exercise is used to apply your web mining and NLP skills in a project of your choice. What do you wish we had covered more?  Explore options - your project can focus on article summarization, using an API, doing sentiment analysis, working through an online tutorial, or gathering any text corpus and finding the most common words (ideas) used, and/or using visualization to provide useful insights. 
+
+As data analysts, our task is to find actionable, useful information and present it clearly. Many students use this to provide a unique, custom project for their online portfolios. As such, you may name your repo as you like. Credit will be earned based on the type of project selected and your ability to present your exploration professionally. Enjoy! 
+
 ### Virtual Environment Set Up
 
 ```python -m venv .venv```
@@ -17,7 +23,7 @@ Make sure to add and push the pkl or text file of your scraped html (this is spe
 
 [Code to install spaCy here](https://spacy.io/usage)
 
-## Rubric
+# Rubric
 
 * (Question 1) Article html stored in separate file that is committed and pushed: 1 pt
 * (Question 2) Polarity score printed with an appropriate label: 1 pt
