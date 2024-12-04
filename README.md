@@ -27,6 +27,10 @@ As data analysts, our task is to find actionable, useful information and present
 
 [Code to install spaCy here](https://spacy.io/usage)
 
+### Convert notebook to HTML
+
+```!jupyter nbconvert --to html "file name".ipynb```
+
 # Rubric
 
 * (Question 1) Article html stored in separate file that is committed and pushed: 1 pt
