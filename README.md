@@ -21,6 +21,8 @@ As data analysts, our task is to find actionable, useful information and present
 
 ### Packages Required *(Cannot import to notebook without installing first)*
 
+[Find list of packages here](https://github.com/Bdowdle4/bd-article-summarizer/blob/main/requirements.txt)
+
 ```pip install -r requirements.txt```
 
 [Code to install spaCy here](https://spacy.io/usage)
